@@ -4,7 +4,7 @@ Regular expressions are versatile tools for pattern matching in strings. Widely 
 
 ## Summary
 
-
+In this document I will explain the regular expression, /^([a-z0-9_.-]+)@([\da-z.-]+).([a-z.]{2,6})$/. This will begin as a borad overview but will begin to focus in on each section as the document progresses. This specific regex can be used to check email addessresses for validity.
 
 ## Table of Contents
 
